@@ -1,3 +1,10 @@
+# Prerequest
+
+Make sure you have vagrant is installed and
+relatively recent VirtualBox is installed
+
+Vagrant will use VirtualBox as default provider
+
 # Vagrant smartos file
 
 run
